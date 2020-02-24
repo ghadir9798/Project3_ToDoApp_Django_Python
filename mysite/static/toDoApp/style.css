@@ -1,0 +1,8 @@
+ul.moveable li {
+    list-style-image: none;
+    cursor: move;
+}
+
+ul.moveable li:hover {
+    background-color: #eee;
+}
